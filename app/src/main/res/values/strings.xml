@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApplication</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Tech</string>
+    <string name="tab_text_3">Health</string>
+    <string name="tab_text_4">Sports</string>
+</resources>
